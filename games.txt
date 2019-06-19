@@ -1,0 +1,3 @@
+chess
+checkers
+tic tac toe
